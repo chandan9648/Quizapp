@@ -68,6 +68,7 @@ public class Quizapp{
         answer = input.next().charAt(0);
         if(answer==ans.ans9){
             correct++;
+            
 
         }
         else wrong++;
